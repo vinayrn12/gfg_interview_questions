@@ -1,0 +1,2 @@
+1. Longest increasing subsequence (nlogn time)
+2. Sum of LIS

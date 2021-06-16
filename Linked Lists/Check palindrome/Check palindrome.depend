@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1618116204 source:d:\study\competitive coding\geek for geeks\linked lists\check palindrome\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<stack>
+
